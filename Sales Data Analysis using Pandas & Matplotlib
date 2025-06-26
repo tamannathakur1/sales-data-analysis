@@ -1,0 +1,49 @@
+# Sales Data Analysis using Pandas & Matplotlib
+
+This mini project focuses on analyzing and visualizing a small sales dataset using **Pandas**, **Matplotlib**, and **Seaborn** in Python. It includes data cleaning, feature creation, and insightful charts to understand sales performance.
+
+## Project Highlights
+
+- Created a sample sales dataset manually
+- Cleaned missing values and removed duplicates
+- Added calculated columns: `Cost`, `Profit`, and `Profit Margin`
+- Performed basic data exploration using Pandas
+- Visualized key insights with:
+  - Bar charts
+  - Pie chart
+  - Line chart (Sales Trend & Cumulative Sales)
+  - Boxplot
+  - Seaborn-styled visuals
+
+---
+
+## 🔍 Key Insights
+
+-  Laptops generated the highest revenue and profit
+-  Delhi had the highest total sales among all cities
+-  Cumulative sales showed steady growth
+-  Profit margins were consistent across most products
+
+##  Files Included
+
+- `Sales Data Analysis using Pandas & Matplotlib.py` – Main Python file
+- `cleaned_sales_data.csv` – Cleaned dataset
+---
+
+## Tools Used
+
+- Python 3
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## ✅ How to Run
+
+1. Clone the repository or download the files
+2. Open in your IDE or Jupyter Notebook
+3. Run the Python file step by step to see the outputs and visuals
+
+## 🤝 Feedback Welcome!
+
+**Created by Tamanna Thakur**
